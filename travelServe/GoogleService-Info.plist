@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>905661604850-rsmjme99d6aaeehm1j6o4m8c8fn4teio.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.905661604850-rsmjme99d6aaeehm1j6o4m8c8fn4teio</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>905661604850-vjm95ef08ckf39o04osqqc01kg4gsju7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCy3SBtaPvZ1cf-pZ3VMFav8t552xEEno</string>
+	<key>GCM_SENDER_ID</key>
+	<string>905661604850</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.travelServes</string>
+	<key>PROJECT_ID</key>
+	<string>travelserve-88a25</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travelserve-88a25.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:905661604850:ios:31d780ba7d38e65089c16b</string>
+	<key>DATABASE_URL</key>
+	<string>https://travelserve-88a25.firebaseio.com</string>
+</dict>
+</plist>
